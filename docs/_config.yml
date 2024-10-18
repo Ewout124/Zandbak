@@ -4,9 +4,9 @@ baseurl: "/"
 apiname: "Meldingen"
 url: "http://localhost:4000"
 nav:
-  - title: Item 1
+  - title: API Specificaties
     subnav:
-      - title: OAS-spec Meldingen
+      - title: Meldingen
         path: /oas/openapi-test.yaml
   - title: Item 2
     subnav:
