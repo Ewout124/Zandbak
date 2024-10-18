@@ -1,4 +1,4 @@
-piremote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
+remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
 baseurl: "/"
 apiname: "Meldingen"
