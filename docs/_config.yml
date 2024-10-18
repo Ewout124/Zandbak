@@ -1,4 +1,4 @@
-remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
+piremote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
 
 baseurl: "/"
 apiname: "Meldingen"
@@ -7,7 +7,7 @@ nav:
   - title: Item 1
     subnav:
       - title: OAS-spec Meldingen
-        path: /oas/meldingen.md
+        path: /oas/openapi-test.yaml
   - title: Item 2
     subnav:
       - title: Subitem 2.1
