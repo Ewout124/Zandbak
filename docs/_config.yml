@@ -7,7 +7,7 @@ nav:
   - title: API Specificaties
     subnav:
       - title: Meldingen
-        path: /oas/openapi-test.yaml
+        path: https://raw.githubusercontent.com/Ewout124/Zandbak/refs/heads/main/oas/openapi-test.yaml
   - title: Item 2
     subnav:
       - title: Subitem 2.1
