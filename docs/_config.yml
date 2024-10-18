@@ -6,8 +6,8 @@ url: "http://localhost:4000"
 nav:
   - title: Item 1
     subnav:
-      - title: Subitem 1.1
-        path: /path-naar-subitem1.1
+      - title: OAS-spec Meldingen
+        path: /oas/openapi-test.yaml
   - title: Item 2
     subnav:
       - title: Subitem 2.1
