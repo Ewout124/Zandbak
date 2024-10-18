@@ -7,7 +7,7 @@ nav:
   - title: Item 1
     subnav:
       - title: OAS-spec Meldingen
-        path: /oas/openapi-test.yaml
+        path: ../oas/openapi-test.yaml
   - title: Item 2
     subnav:
       - title: Subitem 2.1
